@@ -1,4 +1,7 @@
-### Hi there 👋
+![gitReadmeName](https://user-images.githubusercontent.com/88162896/192053125-c222e570-7b71-4cc9-98bb-a2c54b219995.jpg)
+
+### Hi there 👋 
+I'm a fullstack enginner motivated by the power of technology as a tool for positive change, with a background in Neuroscience, Bioinformatics and Music.
 
 <!--
 **Pressedj/pressedj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
