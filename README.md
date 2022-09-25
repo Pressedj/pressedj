@@ -29,7 +29,7 @@ I'm a Fullstack enginner motivated by the power of technology as a tool for posi
 corresponding picture of the day from NASA via the NASA API</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">TicTacTile</h3>
+      <h3 align="center">TicTacTiles</h3>
         <br />
       <a target="_blank" href="https://tictactile.netlify.app/">
             <img src="images/tiles.gif" width="100%"  alt="tictactiles"/>
@@ -37,7 +37,7 @@ corresponding picture of the day from NASA via the NASA API</p>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Pressedj/tictacsquare" target="_blank">
+  <a href="https://github.com/Pressedj/tictactiles" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://tictactile.netlify.app/" target="_blank">
