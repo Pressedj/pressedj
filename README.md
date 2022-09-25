@@ -25,7 +25,8 @@ I'm a Fullstack enginner motivated by the power of technology as a tool for posi
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML, CSS, Nasa API</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, HTML, CSS, Nasa API</strong> - Users input the date they wish to stargaze and view the
+corresponding picture of the day from NASA via the NASA API</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">TicTacTile</h3>
@@ -43,7 +44,7 @@ I'm a Fullstack enginner motivated by the power of technology as a tool for posi
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & Howler.js</strong>Anarchy Tic Tac Toe game allows players to take their oppoent's tiles, but game must finish after 9 turns.</p>
+        <p><strong>HTML5, CSS3, Javascript & Howler.js </strong>Anarchy Tic Tac Toe game allows players to take their opponent's tiles, but game must finish after 9 turns.</p>
     </td>
   </tr>
   
@@ -77,7 +78,7 @@ I'm a Fullstack enginner motivated by the power of technology as a tool for posi
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects, ways to contact me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site includes links to my projects, ways to contact me.</p>
     </td>
   </tr>
 
