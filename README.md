@@ -44,7 +44,7 @@ corresponding picture of the day from NASA via the NASA API</p>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript & Howler.js </strong>Anarchy Tic Tac Toe game allows players to take their opponent's tiles, but game must finish after 9 turns.</p>
+        <p><strong>HTML5, CSS3, Javascript & Howler.js </strong>- Anarchy Tic Tac Toe game allows players to take their opponent's tiles, but game must finish after 9 turns.</p>
     </td>
   </tr>
   
