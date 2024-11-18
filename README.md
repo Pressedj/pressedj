@@ -3,7 +3,7 @@
 ### Hi there 👋 
 I'm someone who has always been interested in code. This is just my little hodgepodge of projects and I'm working to get involved in applying coding techniques with the work I'm doing at UD. 
 
-For right now the work in this github is from my time learning to be a  a Fullstack enginner motivated by the power of technology as a tool for positive change, with a background in Neuroscience, Data Analytics and Music.
+For right now the work in this github is from my time learning to be: A fullstack enginner motivated by the power of technology as a tool for positive change, with a background in Neuroscience, Data Analytics and Music.
 
 
 
