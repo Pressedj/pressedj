@@ -1,7 +1,7 @@
 ![gitReadmeName](https://user-images.githubusercontent.com/88162896/192053125-c222e570-7b71-4cc9-98bb-a2c54b219995.jpg)
 
 ### Hi there 👋 
-I'm someone who has always been interested in code. This is just my little hodgepodge of projects that I sepnt time learning in 2022ish. Looking forward I'm working to get involved in applying coding techniques with the health data science work I'm doing at UD. 
+I'm someone who has always been interested in code. This is just my little hodgepodge of projects that I spent time learning in 2022ish. Looking forward I'm working to get involved in applying coding techniques with the health data science work I'm doing at UD. 
 
 In the interim, the work in this github comprises my time learning to be: A fullstack enginner motivated by the power of technology as a tool for positive change, with a background in Neuroscience, Data Analytics and Music.
 
